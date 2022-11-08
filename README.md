@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jackie Smith, @jsmithIT.
 - 👀 I’m interested in IT and software development.
-- 🌱 I’m currently learning powershell and Unix shell.
+- 🌱 I primarily work in Powershell and Java.
 - 📫 How to reach me: jsmithIT@outlook.com, https://www.linkedin.com/in/jackie-smith-99024b1a3
 
 <!---
